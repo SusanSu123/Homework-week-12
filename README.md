@@ -4,7 +4,7 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 ## How to install
 
-* Git clone https://github.com/SusanSu123/Homework-week-12.git
+* Git clone https://github.com/SusanSu123/MySQL-Employee-Tracker.git
 
 ## Prequisites
 
